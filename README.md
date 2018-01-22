@@ -1,0 +1,2 @@
+# MapsAdapter
+Maps adapter
